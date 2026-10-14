@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+face_recognition
+numpy
+pyttsx3
+python-dotenv
